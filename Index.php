@@ -45,4 +45,5 @@
     <source src="evaluering gjennomgang av php kode the whole shabang.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+<p>yes alle filer er backet i git hub</p>
 </html>
